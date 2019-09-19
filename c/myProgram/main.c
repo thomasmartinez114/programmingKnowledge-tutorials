@@ -6,6 +6,6 @@ int main()
     printf("Hello world!\n");
     printf("Hello world!\n");
     printf("Hello world!\n");
-    printf("The number is = %f", 32.2);
+    printf("%d %d %d ", 32, 58, 19);
     return 0;
 }
